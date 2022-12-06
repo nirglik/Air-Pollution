@@ -32,3 +32,4 @@ Visualise air pollution data in order to make it clearer and more accessible, an
 
 Scope: 
 In this project, we would like to use web scraping (API) to access 18 air quality monitoring stations in Berlin. They are updated regularly every couple of hours. In addition to visualising the up-to-date air pollution levels, we plan to also visualise the trend in air pollution in previous years.
+ 
